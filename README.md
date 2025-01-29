@@ -1,4 +1,4 @@
-## Privacy PolicyInventory Tracker Mobile Application
+# Privacy PolicyInventory Tracker Mobile Application
 
 ## 1. IntroductionThe Inventory Tracker mobile application is designed to monitor the location of company assets during transportation. To ensure efficient tracking and security, the app requires access to specific user data, including location and camera permissions. This Privacy Policy outlines how we collect, use, and protect your data.  
 
